@@ -1,0 +1,11 @@
+.movie_grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 8px;
+    width: 100%;
+  }
+
+  /* .resultList {
+    margin-top: 5rem;
+  } */
